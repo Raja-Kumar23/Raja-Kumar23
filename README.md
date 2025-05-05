@@ -2,7 +2,7 @@ rofile README
 <h1 align="center">Hi 👋, I'm Raja Kumar Sah</h1> <h3 align="center">A passionate Web developer</h3> <img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahkrraja&label=Profile%20views&color=0e75b6&style=flat" alt="sahkrraja" /> </p>
 🌱 I'm currently learning Next.js and DSA (Data Structures and Algorithms)
 
-📫 How to reach me sahrajakuma885r@gmail.com
+📫 How to reach me sahrajakuma885@gmail.com
 
 ⚡ Fun fact Hooked on Web Development
 
