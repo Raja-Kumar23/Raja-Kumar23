@@ -3,7 +3,7 @@
 
 👨‍💻 Currently Working on https://kiithub.in/
 
-👨‍💻 Currently Working on https://www.pukaar.life/
+
 
 🌱 I'm currently learning Next.js and DSA (Data Structures and Algorithms)
 
