@@ -1,14 +1,135 @@
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Raja%20Sah&fontSize=80&fontAlign=50&fontAlignY=35&fontColor=fff&desc=Aspiring%20Software%20Engineer&descSize=20&descAlign=50&descAlignY=55&animation=fadeIn" /></div>
 
-<h1 align="center">Hi 👋, I'm Raja Kumar Sah</h1> <h3 align="center">Aspiring Software Engineer</h3> <img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahkrraja&label=Profile%20views&color=0e75b6&style=flat" alt="sahkrraja" /> </p>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B%20Hi%2C%20I'm%20Raja%20Sah!%3BAspiring%20Software%20Engineer%3Bhttps%3A%2F%2Fkiithub.in%2F%3BAI%2FML%3BWelcome%20to%20my%20GitHub%20Profile!%20%F0%9F%9A%80%3BWhenever%20I%E2%80%99m%20stuck%2C%20I%20just%20say%E2%80%94%E2%80%98Hey%20ChatGPT%2C%20save%20me%20again!" alt="Typing Animation" /></div>
 
-👨‍💻 Currently Working on https://kiithub.in/
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Raja-Kumar23&style=for-the-badge&color=00D4AA&labelColor=1a1a1a" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Raja-Kumar23?style=for-the-badge&color=00D4AA&labelColor=1a1a1a" alt="Followers" />
+<img src="https://img.shields.io/badge/Open%20Source-❤️-00b894?style=for-the-badge" alt="Open Source Love" />
+</div>
 
+---
 
+## 🚀 About Me
 
-🌱 I'm currently learning Next.js and DSA (Data Structures and Algorithms)
+> Passionate developer who loves creating amazing web experiences and solving complex problems
 
-📫 How to reach me sahrajakuma885@gmail.com
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-⚡ Fun fact Hooked on Web Development
+🔭 **Currently working on:** https://kiithub.in/
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/raja-kumar-sah-136288331/" target="_main"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raja-kumar-sah-136288331/" height="30" width="40" /></a> <a href="https://www.facebook.com/helloraj123/" target="_main"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/helloraj123/" height="30" width="40" /></a> <a href="https://www.instagram.com/r__aj01/" target="_main"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/r__aj01/" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raja-Kumar23&show_icons=true&locale=en&layout=compact" alt="Raja-Kumar23" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raja-Kumar23&show_icons=true&locale=en" alt="Raja-Kumar23" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raja-Kumar23&" alt="Raja-Kumar23" /></p> ```
+🌱 **Currently learning:** AI/ML
+
+⚡ **Fun fact:** Whenever I’m stuck, I just say—‘Hey ChatGPT, save me again!
+
+📍 **Location:** Bhubaneswar, India
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### Languages & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=css3" alt="CSS3" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=html5" alt="HTML5" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=googlecloud" alt="Google Cloud" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/>
+</p>
+
+### GitHub Statistics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Raja-Kumar23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-Kumar23&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=00D4AA&text_color=ffffff" height="180"/>
+</div>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raja-Kumar23&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4AA&ring=00D4AA&fire=00b894&currStreakLabel=00D4AA" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raja-Kumar23&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D4AA&line=00D4AA&point=ffffff" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Raja-Kumar23&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+### 🚀 [KIITHub]()
+
+<div align="center">
+<img src="https://img.shields.io/badge/Project-1-00D4AA?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://kiithub.in/"><img src="https://img.shields.io/badge/Live-Demo-00b894?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</div>
+
+KIITHUB is an all-in-one academic companion platform built exclusively for KIIT University students. It offers access to PYQs, E-Notes, project ideas, faculty reviews, section swapping, CGPA/SGPA calculators, and more—helping students stay organized, informed, and ahead in their academic journey.
+
+**🌐 [Live Demo](https://kiithub.in/)** | **📂 [Source Code]()**
+
+---
+
+</div>
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+🎖️ 🧠 Certified in TensorFlow: 100 Projects in 100 Days – Udemy (May 2025)
+
+🎖️ 💼 2-month Internship at Vianet as L1 Technical Support
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-kumar-sah-136288331/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r__aj01/)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahrajakumar885@gail.com)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raja-Kumar23&bg_color=0d1117&color=00D4AA&line=00D4AA&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<br>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Powered%20by-KiitHub-00D4AA?style=for-the-badge" />
+</div>
+<br>
+<i>⭐️ From <a href="https://github.com/Raja-Kumar23">Raja-Kumar23</a> | Generated with 💚 by KiitHub</i>
+<br><br>
+</div>
