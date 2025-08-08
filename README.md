@@ -6,7 +6,7 @@
 👨‍💻 Currently Working on Cricket Tournament Management System
 
 
-
+🌱 I'm currently learning Next.js , AI/ML  and DSA (Data Structures and Algorithms)
 
 📫 How to reach me sahrajakuma885@gmail.com
 
