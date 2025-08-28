@@ -1,64 +1,71 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Raja Kumar Sah</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Web Development • AI/ML • DSA 🚀</h3>
+<!-- Header Section -->
+<div align="center">
+  
+# 👋 Hi, I'm **Raja Kumar Sah**  
+### Aspiring Software Engineer | Full-Stack Developer | AI/ML Enthusiast  
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400"/>
-</p>
+💡 *Turning ideas into code and solving real-world problems with technology*  
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="500"/>
+
+</div>
 
 ---
 
-## 🌟 About Me
-- 🔭 I’m currently working on [KiiTHub](https://kiithub.in/)  
+## 🚀 About Me  
+- 🔭 Working on [KiiTHub](https://kiithub.in/) — A student resource hub  
 - 🏏 Building a **Cricket Tournament Management System**  
-- 🌱 Learning **Next.js, AI/ML, and DSA**  
-- 📧 Reach me at: **sahrajakuma885@gmail.com**  
-- ⚡ Fun fact: I’m **hooked on Web Development!**
+- 🌱 Learning **Next.js | AI/ML | DSA**  
+- 📧 Reach me at **sahrajakuma885@gmail.com**  
+- ⚡ Fun fact: I’m completely **hooked on Web Development**  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/raja-kumar-sah-136288331/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/helloraj123/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/r__aj01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/raja-kumar-sah-136288331/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="https://www.facebook.com/helloraj123/" target="_blank"><img src="https://img.icons8.com/color/48/facebook-new.png"/></a>
+  <a href="https://www.instagram.com/r__aj01/" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new.png"/></a>
 </p>
 
 ---
 
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## 🛠️ Tech Stack  
+<div align="center">
+
+| **Languages** | **Frontend** | **Backend & Frameworks** | **Tools & Others** |
+|---------------|-------------|---------------------------|--------------------|
+| Java ☕ | HTML5 | Node.js | Git |
+| C 🔵 | CSS3 | Next.js | GitHub |
+| JavaScript ⚡ | React.js | Express.js | VS Code |
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raja-Kumar23&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-Kumar23&layout=compact&theme=tokyonight" height="165"/>
-</p>
+## 📊 GitHub Analytics  
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raja-Kumar23&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Raja-Kumar23&show_icons=true&theme=radical" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-Kumar23&layout=compact&theme=radical" height="170"/>  
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raja-Kumar23&theme=radical" height="180"/>  
+
+</div>
 
 ---
 
-## 🏆 Achievements & Extras
+## 🏆 Achievements  
 - 🌐 Contributor at **KiiTHub**  
-- 📚 Actively solving **DSA problems**  
-- 🚀 Exploring **AI/ML Projects**  
-- 🥅 Goal for 2025: **Crack a great placement as a Software Engineer**  
+- 📚 Solving **DSA problems daily**  
+- 🚀 Exploring **AI/ML projects**  
+- 🎯 2025 Goal: **Get placed as a Software Engineer**  
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile ✨</p>
+<div align="center">
+
+### ✨ *Thanks for visiting my profile!* ✨  
+⭐️ *Don’t forget to check out my repositories and projects!* ⭐️  
+
+</div>
