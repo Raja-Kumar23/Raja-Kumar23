@@ -57,7 +57,7 @@
 - 🌐 Contributor at **KiiTHub**  
 - 📚 Actively solving **DSA problems**  
 - 🚀 Exploring **AI/ML Projects**  
-- 🥅 Goal for 2025: **Crack a great placement as a Software Engineer**  
+
 
 ---
 
